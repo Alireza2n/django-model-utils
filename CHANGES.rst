@@ -1,6 +1,11 @@
 Changelog
 =========
 
+4.3.2
+-----
+
+- Don't use `post_init` signal for initialize tracker
+
 4.3.1 (2022-11-15)
 ------------------
 
